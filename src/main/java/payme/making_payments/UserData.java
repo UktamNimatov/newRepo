@@ -20,6 +20,12 @@ public class UserData {
     private String userName;
     private String getUserAddress;
 
+    @Override
+    public String toString() {
+        return "UserData{" +
+                "userAddress='" + userAddress + '\'' +
+                '}';
+    }
 
     public String getUserEmail() {
         return userEmail;
