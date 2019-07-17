@@ -10,3 +10,7 @@ HELP.md
 *.mvn
 
 *.iml
+*.war
+*.ear
+*.jar
+
