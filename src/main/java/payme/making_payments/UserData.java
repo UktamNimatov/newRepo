@@ -4,7 +4,6 @@ public class UserData {
 
     private String userFullName;
     private String userPassword;
-    private String userAddress;
     private int userId;
     private String userEmail;
 
@@ -18,14 +17,7 @@ public class UserData {
     }
 
     private String userName;
-    private String getUserAddress;
 
-    @Override
-    public String toString() {
-        return "UserData{" +
-                "userAddress121233='" + userAddress + '\'' +
-                '}';
-    }
 
     public String getUserEmail() {
         return userEmail;

@@ -3,9 +3,10 @@ HELP.md
 !.mvn/wrapper/maven-wrapper.jar
 
 ### IntelliJ IDEA ###
-.idea
+.idea/*
 *.iws
 *.iml
 *.ipr
 *.mvn
 
+*.iml
