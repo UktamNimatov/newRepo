@@ -13,4 +13,8 @@ HELP.md
 *.war
 *.ear
 *.jar
-
+*.class
+mvnw
+*.cmd
+*.xml
+resources/*
